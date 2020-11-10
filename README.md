@@ -2,6 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## INTRO
 
 The purpose of this project is to create a industry competitive React portfolio to showcase the work I've done as a developer and graphic designer.  
 
