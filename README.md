@@ -4,7 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## INTRO
 
-The purpose of this project is to create a industry competitive React portfolio to showcase the work I've done as a developer and graphic designer.  
+The purpose of this project is to create a industry competitive React portfolio to showcase the work I've done as a developer and graphic designer.
+
+The overall design is intended to be a mobile-first design.  This would allow me to bring my portfolio just about anywhere, and allow viewers the ability to view my portfolio on the most accessible digital medium–the mobile phone.
+
+This project should contain links to contact me such as my email, number, Github page, my LinkedIn page etc.  There should also be small GIFs of my projects to give users a preview of the project they would be hovering over. 
 
 ## About the Project
 After spending 6 months as a student in a full-stack web development bootcamp, it is only natural that a project displaying the different projects would be one of the final things to be developed. While there are still lots of issues with the logic, routing, modules etc.  As a result, this project is about me getting used to the language of React in a portfolio website and a project I intend to complete for the future. 
